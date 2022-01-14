@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BiggerNumberGame</string>
+    <string name="pick_the_bigger_number">pick_the_bigger_number</string>
 </resources>
